@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>tac_tic_toe_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+</Project>

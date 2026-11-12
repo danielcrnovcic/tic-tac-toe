@@ -1,0 +1,34 @@
+# ===== Visual Studio =====
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ===== Build izlaz (C# / WPF) =====
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.pdb
+
+# ===== NuGet =====
+packages/
+*.nupkg
+
+# ===== Testovi i alati =====
+TestResults/
+_ReSharper*/
+*.DotSettings.user
+.idea/
+
+# ===== Logovi i privremeni fajlovi =====
+*.log
+*.tmp
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+desktop.ini
